@@ -267,7 +267,7 @@ const Hero = () => {
           {/* <!-- Hero media --> */}
           <div className="relative w-full">
             <img
-              src="https://images.unsplash.com/photo-1556745750-68295fefafc5?w=2160&amp;q=80"
+              src="https://cdn.britannica.com/17/196817-159-9E487F15/vegetables.jpg"
               className="w-full max-w-5xl sm:rounded-2xl object-cover h-[250px] sm:h-[350px] lg:h-[400px] bg-cover rounded-xl mr-auto ml-auto shadow-2xl"
               alt="Premium grocery shopping experience"
             />
