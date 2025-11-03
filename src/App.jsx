@@ -1,6 +1,7 @@
 import Hero from "./components/Hero.jsx";
 import Banner from "./components/Banner.jsx";
 import Service from "./components/Service.jsx";
+import Pricing from "./components/Pricing.jsx";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Hero />
       <Banner />
       <Service />
+      <Pricing />
     </>
   );
 }
